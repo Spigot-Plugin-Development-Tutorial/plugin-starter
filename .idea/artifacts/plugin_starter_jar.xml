@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="plugin-starter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/plugin_starter_jar</output-path>
+    <root id="archive" name="plugin-starter.jar">
+      <element id="module-output" name="plugin-starter" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-api-1.19.3-R0.1-20230108.094124-26-shaded.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/me/myname/plugin.yml" />
+    </root>
+  </artifact>
+</component>

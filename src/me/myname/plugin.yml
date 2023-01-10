@@ -1,0 +1,5 @@
+name: PluginStarter
+version: 1.0
+author: KodySimpson
+main: me.myname.PluginStarter
+api-version: 1.19
